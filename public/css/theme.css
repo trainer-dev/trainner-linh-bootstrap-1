@@ -1,0 +1,215 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.white {
+    background-color: white;
+}
+
+.bg-theme-menu{
+    background-color: #4ccfc1;
+}
+
+.bg-theme-slideshow {
+    background-image: linear-gradient(#3ac2b7, #38c5b4);
+}
+
+.bg-theme-footer {
+    background-image: linear-gradient(#3cc3b5, #3cc3b5);
+}
+
+.bg-theme-creater {
+    background-image: linear-gradient(#2da89b, #2da89b);
+    color: #ffffff;
+}
+
+.bg-theme-feature {
+    background-image: linear-gradient(#3dc1b1, #3bc7b2);
+}
+
+.btn-success {
+    background-color: #3cc395;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 1.1vw;
+    font-family: 'Fjalla One', sans-serif ;
+}
+
+
+.mb-3{
+    margin-bottom: 0 !important;
+}
+
+.logo {
+    width: 150px;
+}
+
+#search {
+    margin-top: 1.5%;
+}
+
+.image {
+    /*width: 45%;*/
+}
+
+.col-4 {
+    text-align: left;
+    color: white;
+}
+
+h1{
+    font-size: 2.4em;
+    margin-top: -5%;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+}
+
+h2{
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+    padding: 1% 15%;
+}
+
+h3{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+h4{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.h4{
+    font-size: 1.2rem;
+    margin:0;
+
+}
+
+.para {
+    font-size: 1.2em;
+}
+
+
+.row{
+    margin: auto;
+}
+
+.product{
+    text-align: center;
+    margin: 5% 4%;
+    border: 1px solid #e7e7e7;
+    border-bottom: 5px solid #3cc395;
+    font-family: 'Fjalla One', sans-serif;
+    color: #afafaf;
+    padding: 3%
+}
+
+.footer{
+    padding: 3% 0;
+    color: white;
+    padding-left: 5%;
+}
+
+
+.carousel-control-prev, .carousel-control-next{
+    color: #e3e3e3;
+}
+
+.carousel-control-prev:hover{color:#e7e7e7}
+.carousel-control-next:hover{color:#e7e7e7}
+
+.icon-cog {
+    color: #e3e3e3;
+}
+
+.h2{
+    padding: 0;
+    font-family: 'Fjalla One', sans-serif;
+    color: #afafaf;
+    margin-top: 20%;
+    font-size: 1.5rem;
+}
+
+.card-price {
+    padding: 5% 0;
+    font-family: 'Fjalla One', sans-serif;
+    color: #afafaf;
+    font-size: 2em;
+}
+
+.card-img {
+    width: 70px;
+    height: 60px;
+}
+
+.row{
+    margin: auto;
+}
+
+.right {
+    right: 0;
+    position: absolute;
+}
+
+.btn-outline-light{
+    border: 2px solid #ffffff;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.carousel-indicators {
+        bottom: -3%
+}
+
+.carousel-indicators li, .carousel-indicators li.active {
+    width: 10px;
+    height: 0;
+    margin: 4px;
+    border-radius: 50%;
+    border-color: transparent;
+    border-top:0;
+}
+.carousel-indicators li {
+    /*background: rgba(0, 0, 0, 0.2);*/
+    background: #ffffff;
+    opacity: 1;
+}
+.carousel-indicators li.active {
+    background: #7ed7cd;;
+}
+
+.slideshow{
+    padding: 3% 0;
+}
+
+.btn {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.intro {
+    border-radius:  .5em;
+}
+
+
+.content {
+    /*margin-top: 5%;*/
+    padding:0;
+}
+
+#space {
+    font-size: 1.3em;
+    margin-top: -5px;
+}
+
+.img-center {
+    border-left: 1px solid #e3e3e3;
+}
+
+.button{
+    padding: 1.5% 8%
+}
+
+p{
+    margin-bottom: 0;
+}

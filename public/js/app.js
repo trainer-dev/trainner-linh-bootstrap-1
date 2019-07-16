@@ -39925,7 +39925,7 @@ function bindObjectProps (
       var loop = function ( key ) {
         if (
           key === 'class' ||
-          key === 'style.scss' ||
+          key === 'style' ||
           isReservedAttribute(key)
         ) {
           hash = data;
@@ -46314,7 +46314,7 @@ var klass$1 = {
 
 function transformNode$1 (el, options) {
   var warn = options.warn || baseWarn;
-  var staticStyle = getAndRemoveAttr(el, 'style.scss');
+  var staticStyle = getAndRemoveAttr(el, 'style');
   if (staticStyle) {
     /* istanbul ignore if */
     {
@@ -46325,14 +46325,14 @@ function transformNode$1 (el, options) {
           'Interpolation inside attributes has been removed. ' +
           'Use v-bind or the colon shorthand instead. For example, ' +
           'instead of <div style="{{ val }}">, use <div :style="val">.',
-          el.rawAttrsMap['style.scss']
+          el.rawAttrsMap['style']
         );
       }
     }
     el.staticStyle = JSON.stringify(parseStyleText(staticStyle));
   }
 
-  var styleBinding = getBindingAttr(el, 'style.scss', false /* getStatic */);
+  var styleBinding = getBindingAttr(el, 'style', false /* getStatic */);
   if (styleBinding) {
     el.styleBinding = styleBinding;
   }
@@ -47585,12 +47585,12 @@ function makeAttrsMap (attrs) {
 
 // for script (e.g. type="x/template") or style, do not decode content
 function isTextTag (el) {
-  return el.tag === 'script' || el.tag === 'style.scss'
+  return el.tag === 'script' || el.tag === 'style'
 }
 
 function isForbiddenTag (el) {
   return (
-    el.tag === 'style.scss' ||
+    el.tag === 'style' ||
     (el.tag === 'script' && (
       !el.attrsMap.type ||
       el.attrsMap.type === 'text/javascript'
@@ -49354,15 +49354,27 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/sass/pc_mobile/pc.scss":
+/*!******************************************!*\
+  !*** ./resources/sass/pc_mobile/pc.scss ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ 0:
-/*!*************************************************************!*\
-  !*** multi ./resources/js/app.js ./resources/sass/app.scss ***!
-  \*************************************************************/
+/*!************************************************************************************************!*\
+  !*** multi ./resources/js/app.js ./resources/sass/app.scss ./resources/sass/pc_mobile/pc.scss ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! /var/www/html/Sass/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /var/www/html/Sass/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /var/www/html/Sass/resources/sass/app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! /var/www/html/Sass/resources/sass/pc_mobile/pc.scss */"./resources/sass/pc_mobile/pc.scss");
 
 
 /***/ })

@@ -22,3 +22,7 @@ Route::get("carousel",function (){
 Route::get("demo",function (){
     return view("welcome");
 });
+
+Route::get("pc",function (){
+    return view("_bootstrap_2/index");
+});

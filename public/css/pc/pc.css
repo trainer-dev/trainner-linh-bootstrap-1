@@ -1,0 +1,133 @@
+.bg-white {
+  background: #ffffff;
+}
+
+.nav-item a {
+  color: #000;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.active {
+  background: #d45e5e;
+}
+
+.active a {
+  color: #ffffff;
+}
+
+.fa-quote-left {
+  color: #dfdfdf;
+}
+
+p {
+  font-family: "EB Garamond", serif;
+  font-style: italic;
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.image {
+  margin: 20px 0;
+}
+
+.footer-copyright {
+  background: #282828;
+  color: #969696;
+  font-size: .8rem;
+}
+
+.normal {
+  font-style: normal;
+  font-size: 1.2rem;
+  margin: 0;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.none-italic {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.avatar {
+  border: 10px solid #ffffff;
+  margin-bottom: -8%;
+}
+
+.col-avatar {
+  border: 10px solid #ffffff;
+  margin-bottom: -15%;
+}
+
+.col-md-avatar {
+  border: 10px solid #ffffff;
+  margin-bottom: -11%;
+}
+
+.footer {
+  background: #d45e5e;
+  color: #ffffff;
+}
+
+.left-150 {
+  margin-left: 20%;
+  margin-top: 2%;
+}
+
+.col-left {
+  margin-left: 42%;
+}
+
+.col-md-left {
+  margin-left: 30%;
+  margin-top: 2%;
+}
+
+.h3 {
+  font-size: 1.75rem;
+}
+
+.h4 {
+  font-size: 1.5rem;
+}
+
+.progress {
+  margin-top: 3%;
+  border-radius: 0;
+  background-color: #e27878;
+}
+
+.bg-progress-bar {
+  background: #282828;
+}
+
+.symble {
+  margin-top: 8%;
+}
+
+.bottom-30 {
+  margin-bottom: 30px;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+col-6 {
+  padding: 0;
+}
+
+.items {
+  margin-top: 30px;
+}
+
+.fab {
+  padding-top: 2.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa7e1ba-5d36-48a6-8b5b-61b91f7b3992" name="Default Changelist" comment="" />
+    <list default="true" id="faa7e1ba-5d36-48a6-8b5b-61b91f7b3992" name="Default Changelist" comment="update shopping card">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/shopping-card/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/shopping-card/_color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/shopping-card/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/shopping-card/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/shopping-card/carousels/hotdeals.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/shopping-card/carousels/main.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/shopping-card/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +30,53 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/shopping-card/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3952">
+              <caret line="208" column="42" selection-start-line="208" selection-start-column="42" selection-end-line="208" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/sass/shopping-card/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1178">
+              <caret line="62" column="30" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/shopping-card/carousels/main.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/sass/shopping-card/_color.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/sass/shopping-card/_fonts.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,18 +88,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>img-box</find>
-      <find>carousel-control-prev</find>
-      <find>.h2</find>
-      <find>.h</find>
-      <find>h1</find>
       <find>300$</find>
       <find>intro</find>
       <find>prod</find>
       <find>.producf</find>
       <find>.h4</find>
       <find>btn</find>
-      <find>content</find>
       <find>.card</find>
       <find>logo</find>
       <find>para</find>
@@ -48,7 +102,6 @@
       <find>h2</find>
       <find>dodwn</find>
       <find>p</find>
-      <find>card</find>
       <find>proud</find>
       <find>footer</find>
       <find>.footer</find>
@@ -58,6 +111,13 @@
       <find>progress</find>
       <find>copy</find>
       <find>image</find>
+      <find>header-top</find>
+      <find>card</find>
+      <find>leftmenutrigger</find>
+      <find>bg-banner-color</find>
+      <find>.banner</find>
+      <find>content</find>
+      <find>.product</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -77,13 +137,10 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/public/css/carousel.css" />
         <option value="$PROJECT_DIR$/public/js/theme.js" />
-        <option value="$PROJECT_DIR$/public/css/app.css" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/public/js/demo.js" />
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
         <option value="$PROJECT_DIR$/public/css/theme.css" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/webpack.mix.js" />
         <option value="$PROJECT_DIR$/resources/sass/pc_mobile/_fonts.scss" />
         <option value="$PROJECT_DIR$/resources/views/carousel.blade.php" />
         <option value="$PROJECT_DIR$/public/css/pc/pc.css" />
@@ -91,6 +148,17 @@
         <option value="$PROJECT_DIR$/resources/sass/pc_mobile/_background.scss" />
         <option value="$PROJECT_DIR$/resources/views/_bootstrap_2/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/sass/pc_mobile/pc.scss" />
+        <option value="$PROJECT_DIR$/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/sass/shopping-card/_colors.scss" />
+        <option value="$PROJECT_DIR$/resources/sass/shopping-card/_colots.scss" />
+        <option value="$PROJECT_DIR$/public/css/app.css" />
+        <option value="$PROJECT_DIR$/resources/views/shopping-card/carousels/hotdeals.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/shopping-card/carousels/main.blade.php" />
+        <option value="$PROJECT_DIR$/resources/sass/shopping-card/_fonts.scss" />
+        <option value="$PROJECT_DIR$/resources/sass/shopping-card/_color.scss" />
+        <option value="$PROJECT_DIR$/resources/views/shopping-card/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/sass/shopping-card/style.scss" />
       </list>
     </option>
   </component>
@@ -182,7 +250,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="27" />
-    <option name="width" value="1853" />
+    <option name="width" value="927" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -191,6 +259,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,19 +276,6 @@
               <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sass" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sass" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="pc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sass" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -227,12 +283,39 @@
               <item name="Sass" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="_bootstrap_2" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-card" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sass" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="OwlCarousel2-2.3.4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sass" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="OwlCarousel2-2.3.4" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sass" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="OwlCarousel2-2.3.4" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sass" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sass" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
@@ -251,6 +334,13 @@
               <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sass" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-card" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sass" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -260,11 +350,30 @@
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="_bootstrap_1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sass" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-card" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sass" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-card" type="462c0819:PsiDirectoryNode" />
+              <item name="carousels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sass" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,6 +387,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/images/bootstrap" />
       <recent name="$PROJECT_DIR$/resources/views/_bootstrap_1" />
       <recent name="$PROJECT_DIR$/public/css" />
     </key>
@@ -409,7 +520,30 @@
       <workItem from="1563271709532" duration="600000" />
       <workItem from="1563330713269" duration="887000" />
       <workItem from="1563332908715" duration="33000" />
-      <workItem from="1563334810541" duration="527000" />
+      <workItem from="1563334810541" duration="1526000" />
+      <workItem from="1563337142620" duration="1796000" />
+      <workItem from="1563338959428" duration="1187000" />
+      <workItem from="1563345662754" duration="1788000" />
+      <workItem from="1563347472122" duration="1794000" />
+      <workItem from="1563349315528" duration="1789000" />
+      <workItem from="1563351177472" duration="1788000" />
+      <workItem from="1563352983532" duration="1793000" />
+      <workItem from="1563354797452" duration="1790000" />
+      <workItem from="1563356606503" duration="1783000" />
+      <workItem from="1563358414992" duration="1276000" />
+      <workItem from="1563414509422" duration="1762000" />
+      <workItem from="1563416723526" duration="1787000" />
+      <workItem from="1563418548085" duration="1875000" />
+      <workItem from="1563420452983" duration="1872000" />
+      <workItem from="1563422606408" duration="1824000" />
+      <workItem from="1563424837863" duration="1186000" />
+      <workItem from="1563431639964" duration="1788000" />
+      <workItem from="1563433446851" duration="329000" />
+      <workItem from="1563433795411" duration="931000" />
+      <workItem from="1563436163587" duration="1399000" />
+      <workItem from="1563438129741" duration="1503000" />
+      <workItem from="1563440033810" duration="657000" />
+      <workItem from="1563444438133" duration="543000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1563163439368</created>
@@ -432,14 +566,64 @@
       <option name="project" value="LOCAL" />
       <updated>1563334994117</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update bootstrap 2 images">
+      <created>1563335387692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563335387692</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update bootstrap css">
+      <created>1563335410861</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563335410861</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update bootstrap">
+      <created>1563335477878</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563335477878</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update shopping card">
+      <created>1563337289203</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563337289203</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update shopping card">
+      <created>1563338425016</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1563338425016</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update owl carousel">
+      <created>1563436332105</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1563436332106</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update shopping">
+      <created>1563440077631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1563440077632</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168287000" />
+    <option name="totallyTimeSpent" value="203526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17970859" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -455,8 +639,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3269639" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5008095" side_tool="true" weight="0.3237792" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4991905" weight="0.32446808" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -469,7 +653,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
     <MESSAGE value="update bootstrap 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update bootstrap 2" />
+    <MESSAGE value="update bootstrap 2 images" />
+    <MESSAGE value="update bootstrap css" />
+    <MESSAGE value="update bootstrap" />
+    <MESSAGE value="update shopping card" />
+    <MESSAGE value="update owl carousel" />
+    <MESSAGE value="update shopping" />
+    <option name="LAST_COMMIT_MESSAGE" value="update shopping" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss">
@@ -495,7 +685,7 @@
     <entry file="file://$PROJECT_DIR$/public/css/style.scss" />
     <entry file="file://$PROJECT_DIR$/public/css/modules/_color.scss" />
     <entry file="file://$PROJECT_DIR$/public/css/theme.scss" />
-    <entry file="file://$PROJECT_DIR$/public/images/brand-shirt.png">
+    <entry file="file://$PROJECT_DIR$/public/images/bootstrap/brand-shirt.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/theme.js">
@@ -509,13 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="123" column="30" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="7" column="5125" selection-start-line="7" selection-start-column="5125" selection-end-line="7" selection-end-column="5125" />
         </state>
       </provider>
     </entry>
@@ -547,42 +730,11 @@
     <entry file="file://$PROJECT_DIR$/public/images/_bootstrap_2/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/banner.png">
+    <entry file="file://$PROJECT_DIR$/public/images/bootstrap/banner.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/images/_bootstrap_2/layer-9.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.mix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/_bootstrap_1/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="98" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="37" column="43" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="43" />
-          <folding>
-            <marker date="1563161395499" expanded="true" signature="1519:1588" ph="..." />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/carousel.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -612,14 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/sass/pc_mobile/pc.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="129" column="13" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
-          <caret line="135" selection-start-line="135" selection-end-line="135" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/sass/pc_mobile/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -634,10 +778,143 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sass/shopping-card/colors.scss" />
     <entry file="file://$PROJECT_DIR$/resources/views/_bootstrap_2/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="96" column="37" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
+        <state relative-caret-position="760">
+          <caret line="263" selection-start-line="254" selection-end-line="263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sass/shopping-card/_colors.scss" />
+    <entry file="file://$PROJECT_DIR$/public/images/shopping-card/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sass/pc_mobile/pc.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/aria.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="309" column="18" selection-start-line="309" selection-start-column="18" selection-end-line="309" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="194" column="1" selection-start-line="194" selection-start-column="1" selection-end-line="194" selection-end-column="1" />
+          <folding>
+            <marker date="1563161395499" expanded="true" signature="1519:1588" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="11099" selection-start-line="11099" selection-end-line="11099" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="5" column="106053" selection-start-line="5" selection-start-column="106053" selection-end-line="5" selection-end-column="106053" />
+          <folding>
+            <element signature="e#25768#26002#2" expanded="true" />
+            <element signature="e#26806#26959#1" expanded="true" />
+            <element signature="e#26999#27233#1" expanded="true" />
+            <element signature="e#30239#30515#2" expanded="true" />
+            <element signature="e#31347#31500#1" expanded="true" />
+            <element signature="e#31540#31816#1" expanded="true" />
+            <element signature="e#61072#61259#2" expanded="true" />
+            <element signature="e#61488#61624#2" expanded="true" />
+            <element signature="e#62027#62160#2" expanded="true" />
+            <element signature="e#63642#63795#1" expanded="true" />
+            <element signature="e#75788#76018#2" expanded="true" />
+            <element signature="e#76885#77121#2" expanded="true" />
+            <element signature="e#106714#106891#2" expanded="true" />
+            <element signature="e#106937#107114#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/_bootstrap_1/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/shopping-card/carousels/hotdeals.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/sass-loader/lib/loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/shopping-card/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3952">
+          <caret line="208" column="42" selection-start-line="208" selection-start-column="42" selection-end-line="208" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/shopping-card/carousels/main.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sass/shopping-card/_color.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sass/shopping-card/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sass/shopping-card/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="62" column="30" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
         </state>
       </provider>
     </entry>

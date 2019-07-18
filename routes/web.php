@@ -26,3 +26,7 @@ Route::get("demo",function (){
 Route::get("pc",function (){
     return view("_bootstrap_2/index");
 });
+
+Route::get("shopping_card",function (){
+    return view("shopping-card/index");
+});

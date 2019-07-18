@@ -14,4 +14,5 @@ const mix = require('laravel-mix');
 mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/app.scss', 'public/css');
 
-mix.sass('resources/sass/pc_mobile/pc.scss','public/css/pc');
+mix.sass('resources/sass/pc_mobile/pc.scss','public/css/pc')
+    .sass('resources/sass/shopping-card/style.scss','public/css/shopping-card');
